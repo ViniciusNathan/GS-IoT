@@ -5,6 +5,10 @@
 •⁠  ⁠Vinicius RM567105
 •⁠  Bruno RM 568316
 
+## Links
+Wokwi https://wokwi.com/projects/448249390850680833
+Vídeo explicativo https://www.loom.com/share/076f9541c2c04b1ba5daec8174ed6192
+
 
 ## Objetivo do Projeto
 Este projeto tem como finalidade promover *saúde, bem-estar e produtividade* em ambientes de estudo e trabalho. Utiliza um Arduino UNO para criar um *Timer Inteligente de Foco*, baseado no método Pomodoro, incentivando pausas saudáveis e melhorando a eficiência durante atividades cognitivas. Pomodoro indica tempos de 25min de foco em estudos.
